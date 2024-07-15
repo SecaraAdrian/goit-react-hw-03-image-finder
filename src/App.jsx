@@ -5,7 +5,7 @@ import ImageGallery from './components/ImageGallery';
 import Button from './components/Button';
 import Loader from './components/Loader';
 import Modal from './components/Modal';
-import '../index.css';
+import './components/App.css';
 
 const API_KEY = '32796055-430da42c5dde817f5aba040d6';
 
